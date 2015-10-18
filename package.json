@@ -1,0 +1,31 @@
+{
+  "name": "board-react",
+  "version": "1.0.0",
+  "description": "Built from Azat Mardan's Udemy React.js course, message board built with Express, MongoDB, and React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tacastillo/board-react.git"
+  },
+  "keywords": [
+    "react.js",
+    "express",
+    "node.js",
+    "mongodb",
+    "gulp",
+    "udemy",
+    "learning"
+  ],
+  "author": "Original: Azat Mardan, Student: Timothy Castillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tacastillo/board-react/issues"
+  },
+  "homepage": "https://github.com/tacastillo/board-react#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1"
+  }
+}
